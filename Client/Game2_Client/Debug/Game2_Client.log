@@ -1,0 +1,13 @@
+﻿  Game.cpp
+C:\Users\Ajay\source\repos\Game2_Client\Game2_Client\Timeline.h(44,54): warning C4244:  'return': conversion from 'float' to 'long', possible loss of data
+C:\Users\Ajay\source\repos\Game2_Client\Game2_Client\Timeline.h(47,52): warning C4244:  'return': conversion from 'float' to 'long', possible loss of data
+C:\Users\Ajay\source\repos\Game2_Client\Game2_Client\Timeline.h(53,35): warning C4244:  'return': conversion from 'float' to 'long', possible loss of data
+C:\Users\Ajay\source\repos\Game2_Client\Game2_Client\Timeline.h(56,29): warning C4244:  'return': conversion from 'float' to 'long', possible loss of data
+C:\Users\Ajay\source\repos\Game2_Client\Game2_Client\Timeline.h(121,33): warning C4244:  'return': conversion from 'float' to 'long', possible loss of data
+C:\Users\Ajay\source\repos\Game2_Client\Game2_Client\Game.cpp(134,14): warning C4018:  '>': signed/unsigned mismatch
+C:\Users\Ajay\source\repos\Game2_Client\Game2_Client\Game.cpp(166,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Ajay\source\repos\Game2_Client\Game2_Client\Game.cpp(191,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Ajay\source\repos\Game2_Client\Game2_Client\Game.cpp(195,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Ajay\source\repos\Game2_Client\Game2_Client\Game.cpp(188,33): warning C4101:  'e': unreferenced local variable
+C:\Users\Ajay\source\repos\Game2_Client\Game2_Client\RigidBody.h(60): warning C4715:  'RigidBody::getPoint': not all control paths return a value
+  Game2_Client.vcxproj -> C:\Users\Ajay\source\repos\Game2_Client\Debug\Game2_Client.exe
