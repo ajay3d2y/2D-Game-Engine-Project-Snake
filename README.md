@@ -18,3 +18,5 @@ down arrow - Change snake direction to down
 left arrow - Change snake direction to left 
 
 right arrow - Change snake direction to right 
+
+![Snake](https://user-images.githubusercontent.com/85508832/123150110-da31d500-d416-11eb-946a-2229ac079e94.png)
